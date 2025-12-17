@@ -302,6 +302,7 @@ Please stay tuned for more updates!
 
 ## Contributors
 Thanks to the following contributors for their contributions to this repository:
+
 <a href="https://github.com/fuyw-aisw" target="_blank"><img src="https://avatars.githubusercontent.com/u/118046924?v=4" alt="yueliu1999" width="96" height="96"/></a> 
 <a href="https://github.com/Marigoldwu" target="_blank"><img src="https://avatars.githubusercontent.com/u/75920051?v=4" alt="Marigoldwu" width="96" height="96"/></a> 
 
