@@ -1,7 +1,7 @@
-# Awesome-LLM-for-Clustering
-Awesome-LLM-for-Clustering is a curated collection of state-of-the-art methods, influential papers, open-source codes, and benchmark datasets related to applying large language models for clustering
+# Awesome-LLMs-for-Clustering
+Awesome-LLMs-for-Clustering is a curated collection of state-of-the-art methods, influential papers, open-source codes, and benchmark datasets related to applying large language models for clustering
 
-## A Taxonomy of LLM for clustering
+## A Taxonomy of LLMs for clustering
 
 - LLM as Representor
   - Direct Embedding
