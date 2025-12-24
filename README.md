@@ -21,6 +21,7 @@ Awesome-LLMs-for-Clustering is a curated collection of state-of-the-art methods,
 
 > Latest Updates: Dec 2025
 ### LLM as Representor
+
 ![framework](assets/representor.PNG)
 
   
