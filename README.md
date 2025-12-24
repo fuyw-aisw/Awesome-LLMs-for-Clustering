@@ -94,6 +94,14 @@ Awesome-LLMs-for-Clustering is a curated collection of state-of-the-art methods,
 
 ## Datasets
 Please stay tuned for more updates!
+### Pure-text datasets
+![framework](assets/pure-text.PNG)
+
+### Structued text datasets
+![framework](assets/structured-text.PNG)
+
+### Multi-modal datasets with text 
+![framework](assets/multi-modal-text.PNG)
 
 ## Related Repos
 
